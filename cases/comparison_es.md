@@ -1895,3 +1895,16 @@ A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arrang
 ```
 A photorealistic split-frame composition divided precisely down the center. Left half: a detailed dog bone resting against the dividing edge, set against a bright blue sky with soft clouds. Right half: the bone organically morphs into a breathtaking futuristic spacecraft, its silhouette and form continuing the exact contours of the bone into a deep starfield. The transition across the centerline is seamless, making the organic structure flow naturally into the mechanical, set against a clean neutral backdrop to draw full focus to both subjects.
 ```
+
+<!-- Case 110: Cuadrícula de dioramas con virutas de lápiz (by @Gdgtify) -->
+### Case 110: [Cuadrícula de dioramas con virutas de lápiz](https://x.com/Gdgtify/status/2069543521045143580) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case110/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cuadrícula de dioramas con virutas de lápiz"></a> |
+
+**Prompt:**
+
+```
+2x2 grid, do this for 4 days $ scenes that made humans proud: Input = Pencil Shaving Category. Identify 4 distinct shavings (e.g., Graphite Shavings, Red Pencil Shavings, Yellow Pencil Shavings, Green Pencil Shavings). > Function Draw($ Pencil_Shaving, $ scene) > Anchor: [scene]:: [Pencil_Shaving]::4 > Morphology: A stunning 3D [scene] composed of [Pencil_Shaving] — full detailed > Material Physics: The thin curled wood, painted color edge, and fine grain of [$Pencil_Shaving] under warm window light
+```

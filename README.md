@@ -5,7 +5,7 @@
 <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2-API-and-Prompts"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/logo.png" alt="Project logo"></a>
 
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![929 Curated Prompts](https://img.shields.io/badge/Prompts-929_Curated_Cases-111111)](README.md)
+[![936 Curated Prompts](https://img.shields.io/badge/Prompts-936_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.5 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.5-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow)
 [![🛠️ GPT-Image-2 Gen Skill - Callable Skill](https://img.shields.io/badge/🛠️_GPT--Image--2_Gen_Skill-Callable_Skill-green)](https://docs.evolink.ai/en/api-manual/image-series/gpt-image-2/gpt-image-2-image-generation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-API-and-Prompts)
 
@@ -69,7 +69,7 @@ curl --request POST \
 
 Welcome to the **Awesome GPT Image 2 API and Prompts** repository! 🤗
 
-A curated collection of **929+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
+A curated collection of **936+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
 
 Whether you're looking for GPT-Image-2 prompt examples, text-to-image best practices, image editing techniques, or ready-to-use prompt templates — this is your one-stop reference.
 
@@ -105,6 +105,8 @@ Works with OpenAI's standard API format (`/v1/images/generations`)
 > Learn more about using the API in the Use GPT Image 2 API section below.
 
 ## 📰 News
+
+**June 24, 2026:** Added 7 new GPT-Image-2 prompt cases (2 ad creative, 1 poster, 1 comparison, 3 portrait) from the daily image-prompt update loop after semantic review and media validation
 
 **June 23, 2026:** Added 10 new GPT-Image-2 prompt cases (3 ad creative, 4 UI, 1 poster, 1 comparison, 1 portrait) from the daily image-prompt update loop after semantic review and media validation
 
@@ -559,7 +561,7 @@ A professional studio food photography series showcasing deconstructed dishes ca
 
 ## 📣 Ad Creative Cases
 
-> **28 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
+> **30 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
 
 <!-- Case 176: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 176: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
@@ -1267,6 +1269,33 @@ TYPOGRAPHY:
 FINAL FEEL:
 
 This must look like a creative direction board for a global campaign. Not a clean layout, not a grid, not minimal. It must feel alive, layered, and brand-heavy, a visual identity snapshot that is highly shareable and scroll-stopping.
+```
+
+<!-- Case 202: STARKIDZ Cosmic Telescope Ad (by @Strength04_X) -->
+### Case 202: [STARKIDZ Cosmic Telescope Ad](https://x.com/Strength04_X/status/2069448983651787177) (by [@Strength04_X](https://x.com/Strength04_X))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case202/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - STARKIDZ Cosmic Telescope Ad"></a> |
+
+**Prompt:**
+
+```
+A magical science advertisement poster. A curious young boy age 10 in a NASA tshirt gazes up in total wonder beside a giant shiny silver telescope 3x his height pointed toward a breathtaking galaxy view above, "STARKIDZ" written in glowing white font on the telescope body. Deep dark space background with milky way galaxy colorful nebula clouds and shooting stars. Glowing cosmic typography "STARKIDZ" in white and blue filling the background. Tagline bottom: "Explore the universe." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, magical kids science product commercial, dramatic deep space galaxy lighting.
+```
+
+
+<!-- Case 203: Monumental Timepiece Fashion Ad (by @iamaiistudio) -->
+### Case 203: [Monumental Timepiece Fashion Ad](https://x.com/iamaiistudio/status/2069387162425205211) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case203/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Monumental Timepiece Fashion Ad"></a> |
+
+**Prompt:**
+
+```
+Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model leaning against the dial face, monumental "TIME" typography looming in the background, deep emerald studio environment, reflective polished floor, Swiss high-end advertising aesthetic, cinematic editorial photography, ultra-clean minimalist composition, 1:1
 ```
 
 ## 🍌 Portrait & Photography Cases
@@ -3676,9 +3705,66 @@ Aspect ratio: 9:16
 A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
 ```
 
+<!-- Case 315: Top-Down Aerial Studio Portrait (by @iamaiistudio) -->
+### Case 315: [Top-Down Aerial Studio Portrait](https://x.com/iamaiistudio/status/2069568331821318277) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case315/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Top-Down Aerial Studio Portrait"></a> |
+
+**Prompt:**
+
+```
+Full prompt: 
+
+Ultra-wide angle, 90-degree top-down aerial studio portrait of a woman looking straight up at the camera. Strict identity preservation from reference image, do not alter face, proportions, skin texture, or expression.
+
+Composition: full-body framing, large negative space surrounding the subject, dramatic isolation and graphic impact.
+
+Subject: woman with round thick-framed stylish glasses. Wearing a deep dark brown short-sleeve button-up shirt in corduroy or textured fabric, with a light beige off-white textured sweater underneath. Natural hairstyle with visible texture and volume, do not alter hair color or structure. Natural realistic skin tone, visible texture, not over-smoothed. Expression: engaging, slightly curious or inquisitive.
+
+Background: minimalist studio backdrop, soft gray gradient, darker at edges, lighter at center directly beneath the subject.
+
+Lighting: soft uniform overhead lighting from above, subtle shadows defining facial features and clothing folds, even illumination, no harsh contrast.
+
+Camera: ISO 150-200, aperture f/1.28, shutter speed 1/200s, high-resolution ultra-detailed.
+
+Color grading: neutral modern tones, soft balanced contrast, clean contemporary look.
+
+Mood: minimalist, modern, contemplative. Strong subject isolation and visual clarity.
+```
+
+
+<!-- Case 316: Forced-Perspective Sneaker Portrait (by @iamaiistudio) -->
+### Case 316: [Forced-Perspective Sneaker Portrait](https://x.com/iamaiistudio/status/2069538312357114324) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case316/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Forced-Perspective Sneaker Portrait"></a> |
+
+**Prompt:**
+
+```
+A cinematic forced-perspective street photography scene where a giant worn-out sneaker appears enormous in the foreground, towering over a casually dressed young man leaning against it. The man wears a brown leather jacket, loose blue jeans, sneakers, and a beige cap, standing confidently with hands in pockets. Autumn atmosphere with yellow and orange leaves scattered on the road, talltrees with fall foliage in the background, parked car slightly blurred. Ultra-realistic textures on the shoe sole, visible dirt and fabric wear. Shot from a very low angle to exaggerate scale, shallow depth of field, natural daylight, soft cinematic color grading, realistic shadows, high detail, 8K resolution, professional photography, surreal yet believable forced perspective illusion.
+```
+
+
+<!-- Case 317: Cloud-Bloom Editorial Portrait (by @ChillaiKalan__) -->
+### Case 317: [Cloud-Bloom Editorial Portrait](https://x.com/ChillaiKalan__/status/2069471846890959183) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case317/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cloud-Bloom Editorial Portrait"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case317/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cloud-Bloom Editorial Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one enormous pink flower growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a short sleeve crisp oversized white shirt, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+```
+
 ## 🎨 Poster & Illustration Cases
 
-> **156 curated cases** — [Explore all Poster & Illustration Prompts →](cases/poster.md)
+> **157 curated cases** — [Explore all Poster & Illustration Prompts →](cases/poster.md)
 
 <!-- Case 214: Peacock Botanical Vintage Symmetrical Art Print (by @dotey) -->
 ### Case 214: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
@@ -8045,6 +8131,60 @@ Position [MACHINE NAME] in large bold typography at the top-center, followed by 
 All text color must automatically adapt for maximum contrast against the background (white or black as needed).
 ```
 
+<!-- Case 421: Cozy Japanese Lifestyle Illustration (by @oggii_0) -->
+### Case 421: [Cozy Japanese Lifestyle Illustration](https://x.com/oggii_0/status/2069469184787198164) (by [@oggii_0](https://x.com/oggii_0))
+
+<table>
+<tr><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case421/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Japanese Lifestyle Illustration"></a></td><td width="50%"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/poster_case421/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Japanese Lifestyle Illustration"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Create a delicate contemporary Japanese lifestyle illustration with a cozy slice-of-life atmosphere.
+
+ART STYLE
+Hand-drawn pen-and-ink sketch illustration, thin expressive linework, loose imperfect contours, minimalist editorial artwork, soft watercolor washes, subtle paper texture, elegant negative space, sketchbook aesthetic, modern Japanese indie illustration, light and airy composition, contemporary café-art style, emotionally warm and intimate.
+
+CHARACTERS
+Two young adults with soft, simplified facial features and natural expressions. Casual oversized clothing, relaxed body language, authentic interaction, candid everyday moment. Faces are minimally rendered with delicate linework rather than detailed realism.
+
+ENVIRONMENT
+A cozy indoor setting such as a café, coffee shop, apartment, studio, bookstore, kitchen corner, or creative workspace. Include wooden furniture, coffee mugs, indoor plants, shelves, books, windows, soft decorative details, and small everyday objects. The environment should feel lived-in yet uncluttered.
+
+COMPOSITION
+Full-body or three-quarter-body view. Characters seated naturally and facing one another. Balanced asymmetrical layout. Large areas of clean negative space. Storytelling through posture and atmosphere rather than action. Editorial illustration framing. Eye-level perspective.
+
+COLOR PALETTE
+Muted and desaturated colors only:
+• Dusty blue
+• Warm cream
+• Soft beige
+• Light gray
+• Sage green
+• Warm brown
+• Off-white
+
+Add only one small accent color element such as red socks, red shoes, a red mug, or a small red object.
+
+LIGHTING
+Soft natural daylight entering through windows. Gentle ambient illumination. No dramatic shadows. Warm, peaceful, calming mood.
+
+RENDERING
+Minimal shading. Sparse details. Watercolor-style color fills inside delicate ink outlines. Slightly unfinished sketch quality. High-quality illustration with visible hand-drawn imperfections. Soft edges and subtle texture.
+
+MOOD
+Comfortable, quiet, nostalgic, peaceful, intimate, cozy, everyday happiness, slow living, café culture, thoughtful conversation, gentle human connection.
+
+AVOID
+Anime screenshots, manga panels, cel shading, digital painting, hyperrealism, photorealism, 3D rendering, glossy surfaces, vibrant saturated colors, cinematic effects, dramatic lighting, excessive details, sharp outlines, heavy shadows, complex backgrounds.
+
+SCENE:
+[INSERT YOUR SCENE DESCRIPTION HERE]
+
+The final image should feel like a premium Japanese lifestyle illustration found in an art book, café magazine, design journal, or independent sketchbook collection.
+```
+
 ## 🧍 Character Design Cases
 
 > **15 curated cases** — [Explore all Character Design Prompts →](cases/character.md)
@@ -10263,7 +10403,7 @@ A strategic command board for an expedition leader planning [JOURNEY / MISSION] 
 
 ## 🧪 Comparison & Community Examples
 
-> **28 curated cases** — [Explore all Comparison & Community Examples →](cases/comparison.md)
+> **29 curated cases** — [Explore all Comparison & Community Examples →](cases/comparison.md)
 
 <!-- Case 80: Sam Altman Bear Selfie (by @JustinGorya) -->
 ### Case 80: [Sam Altman Bear Selfie](https://x.com/JustinGorya/status/2046510831832006970) (by [@JustinGorya](https://x.com/JustinGorya))
@@ -11394,6 +11534,19 @@ Finished Pergola: Fully built wooden pergola in a real garden, matching the exac
 
 ```
 A photorealistic split-frame composition divided precisely down the center. Left half: a detailed dog bone resting against the dividing edge, set against a bright blue sky with soft clouds. Right half: the bone organically morphs into a breathtaking futuristic spacecraft, its silhouette and form continuing the exact contours of the bone into a deep starfield. The transition across the centerline is seamless, making the organic structure flow naturally into the mechanical, set against a clean neutral backdrop to draw full focus to both subjects.
+```
+
+<!-- Case 110: Pencil Shaving Diorama Grid (by @Gdgtify) -->
+### Case 110: [Pencil Shaving Diorama Grid](https://x.com/Gdgtify/status/2069543521045143580) (by [@Gdgtify](https://x.com/Gdgtify))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case110/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pencil Shaving Diorama Grid"></a> |
+
+**Prompt:**
+
+```
+2x2 grid, do this for 4 days $ scenes that made humans proud: Input = Pencil Shaving Category. Identify 4 distinct shavings (e.g., Graphite Shavings, Red Pencil Shavings, Yellow Pencil Shavings, Green Pencil Shavings). > Function Draw($ Pencil_Shaving, $ scene) > Anchor: [scene]:: [Pencil_Shaving]::4 > Morphology: A stunning 3D [scene] composed of [Pencil_Shaving] — full detailed > Material Physics: The thin curled wood, painted color edge, and fine grain of [$Pencil_Shaving] under warm window light
 ```
 
 ## 🤝 How to Contribute
